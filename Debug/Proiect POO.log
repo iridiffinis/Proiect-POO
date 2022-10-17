@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(694,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(699,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(1337,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(1759,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(2410,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(2776,110): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(2797,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(3020,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(225): warning C4715: 'Elev::getNrLectii': not all control paths return a value
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(1338): warning C4715: 'Echipament::calculAmPlata': not all control paths return a value
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Source.cpp(1760): warning C4715: 'Locatie::calculAmPlata': not all control paths return a value
+  Proiect POO.vcxproj -> C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\visual studio\Proiect POO\Debug\Proiect POO.exe
