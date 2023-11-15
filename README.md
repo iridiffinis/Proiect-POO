@@ -1,5 +1,6 @@
-# Proiect - Programare orientată obiect
-Gestiunea unui atelier de Origami
+# Project - Object-Oriented Programming
+## Management of an Origami workshop
+Application developed using the programming language C++, for the Object Oriented Programming discipline, in which the specific concepts of object oriented programming were exemplified, as well as working with text files, binary files, CSV files, the implementation of a simple menu form.
 
 ![image](https://github.com/iridiffinis/Proiect-POO/assets/102820231/ceef31e3-ffa5-4f02-8c26-6befdc2e2f3c)
 
